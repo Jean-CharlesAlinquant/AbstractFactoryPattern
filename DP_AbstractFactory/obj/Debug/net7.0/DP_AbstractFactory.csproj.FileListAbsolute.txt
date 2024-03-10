@@ -1,0 +1,14 @@
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/bin/Debug/net7.0/DP_AbstractFactory
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/bin/Debug/net7.0/DP_AbstractFactory.deps.json
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/bin/Debug/net7.0/DP_AbstractFactory.runtimeconfig.json
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/bin/Debug/net7.0/DP_AbstractFactory.dll
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/bin/Debug/net7.0/DP_AbstractFactory.pdb
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.AssemblyInfoInputs.cache
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.AssemblyInfo.cs
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.dll
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/refint/DP_AbstractFactory.dll
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.pdb
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/DP_AbstractFactory.genruntimeconfig.cache
+/Users/jcdev/Dev/CSharp/Design Patterns/Creational/Factories/DP_AbstractFactory/DP_AbstractFactory/obj/Debug/net7.0/ref/DP_AbstractFactory.dll
